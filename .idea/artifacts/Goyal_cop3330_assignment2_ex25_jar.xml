@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Goyal-cop3330-assignment2-ex25:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Goyal_cop3330_assignment2_ex25_jar</output-path>
+    <root id="archive" name="Goyal-cop3330-assignment2-ex25.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Goyal-cop3330-assignment2-ex25" />
+    </root>
+  </artifact>
+</component>
